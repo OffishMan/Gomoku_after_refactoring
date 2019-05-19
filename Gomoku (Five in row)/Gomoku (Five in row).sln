@@ -1,0 +1,63 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gomoku", "Gomoku (Five in row)\Gomoku.csproj", "{66745617-1E69-4686-B7BB-E4F08C7D8413}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{CA8CEFE2-4B4F-4091-A75C-986CB8F25042}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LL", "LL", "{46CDC742-D035-432A-AC36-0E9EB2CCFFC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "PL", "PL", "{408EB53A-8F9B-4F5D-89D7-FD53DEA0DD1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DAL", "DAL", "{BF6652E5-56D4-4233-8A49-A79322B1AF02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{7EE68986-7713-4395-A5FE-28851514635F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logic", "Logic\Logic.csproj", "{652ED2F0-203A-4F75-BAFB-08FCA25FF115}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result.DAL", "ResultDAO\Result.DAL.csproj", "{363D60CE-08C5-4C11-BE4B-4CC375409768}"
+EndProject
+Global
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66745617-1E69-4686-B7BB-E4F08C7D8413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66745617-1E69-4686-B7BB-E4F08C7D8413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66745617-1E69-4686-B7BB-E4F08C7D8413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66745617-1E69-4686-B7BB-E4F08C7D8413}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EE68986-7713-4395-A5FE-28851514635F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EE68986-7713-4395-A5FE-28851514635F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EE68986-7713-4395-A5FE-28851514635F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EE68986-7713-4395-A5FE-28851514635F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{652ED2F0-203A-4F75-BAFB-08FCA25FF115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652ED2F0-203A-4F75-BAFB-08FCA25FF115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652ED2F0-203A-4F75-BAFB-08FCA25FF115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652ED2F0-203A-4F75-BAFB-08FCA25FF115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{363D60CE-08C5-4C11-BE4B-4CC375409768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{363D60CE-08C5-4C11-BE4B-4CC375409768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{363D60CE-08C5-4C11-BE4B-4CC375409768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{363D60CE-08C5-4C11-BE4B-4CC375409768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{66745617-1E69-4686-B7BB-E4F08C7D8413} = {408EB53A-8F9B-4F5D-89D7-FD53DEA0DD1C}
+		{7EE68986-7713-4395-A5FE-28851514635F} = {CA8CEFE2-4B4F-4091-A75C-986CB8F25042}
+		{652ED2F0-203A-4F75-BAFB-08FCA25FF115} = {46CDC742-D035-432A-AC36-0E9EB2CCFFC5}
+		{363D60CE-08C5-4C11-BE4B-4CC375409768} = {BF6652E5-56D4-4233-8A49-A79322B1AF02}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C392D94E-27B0-447F-A7D1-49E4399A7D4C}
+	EndGlobalSection
+	GlobalSection(Performance) = preSolution
+		HasPerformanceSessions = true
+	EndGlobalSection
+EndGlobal
