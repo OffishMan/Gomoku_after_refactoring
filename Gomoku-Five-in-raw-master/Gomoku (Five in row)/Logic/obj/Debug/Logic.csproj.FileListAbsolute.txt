@@ -1,0 +1,59 @@
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\obj\Debug\Logic.csprojAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\obj\Debug\Logic.csproj.CopyComplete
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\obj\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Logic\obj\Debug\Logic.pdb

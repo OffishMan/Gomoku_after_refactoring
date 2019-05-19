@@ -1,0 +1,103 @@
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku__Five_in_row_.Properties.Resources.resources
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+c:\users\zajar\source\repos\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form1.resources
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form2.resources
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku__Five_in_row_.Properties.Resources.resources
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form1.resources
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form2.resources
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\тест\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form1.resources
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form2.resources
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form3.resources
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form1.resources
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form2.resources
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form3.resources
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe.config
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Debug\ResultDAO.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csprojAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form1.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form2.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Form3.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.Properties.Resources.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Debug\Gomoku (Five in row).pdb

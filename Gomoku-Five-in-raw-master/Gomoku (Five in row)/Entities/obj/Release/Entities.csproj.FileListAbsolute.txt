@@ -1,0 +1,6 @@
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\bin\Release\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\bin\Release\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Release\Entities.csprojAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Release\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Release\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Release\Entities.pdb

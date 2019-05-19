@@ -1,0 +1,30 @@
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\bin\Debug\Entities.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\bin\Debug\Entities.pdb
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\obj\Debug\Entities.dll
+c:\users\zajar\source\repos\Gomoku (Five in row)\Entities\obj\Debug\Entities.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\bin\Debug\Entities.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\bin\Debug\Entities.pdb
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\obj\Debug\Entities.dll
+C:\Users\zajar\Documents\GitHub\Gomoku-Five-in-raw-\Gomoku (Five in row)\Entities\obj\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\obj\Debug\Entities.dll
+C:\Users\zajar\Desktop\Временная\ещё 1\Gomoku (Five in row)\Entities\obj\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\obj\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku (Five in row)\Entities\obj\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\bin\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\bin\Debug\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Debug\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Entities\obj\Debug\Entities.pdb

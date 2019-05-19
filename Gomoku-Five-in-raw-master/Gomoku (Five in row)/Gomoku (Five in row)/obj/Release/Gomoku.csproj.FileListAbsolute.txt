@@ -1,0 +1,19 @@
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Gomoku (Five in row).exe.config
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Gomoku (Five in row).pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Entities.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Logic.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\ResultDAO.dll
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Entities.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\Logic.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\bin\Release\ResultDAO.pdb
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.csprojAssemblyReference.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.Form1.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.Form2.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.Form3.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.Properties.Resources.resources
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.csproj.GenerateResource.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.csproj.CoreCompileInputs.cache
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku.csproj.CopyComplete
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku (Five in row).exe
+C:\Users\zajar\Desktop\Gomoku-Five-in-raw-master\Gomoku (Five in row)\Gomoku (Five in row)\obj\Release\Gomoku (Five in row).pdb
